@@ -1,0 +1,3 @@
+1: notificar al coordinador por telegram
+2: generar reporte semanal automatico
+3: recordatorio de seguimiento cada 3 dias
